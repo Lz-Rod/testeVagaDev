@@ -4,16 +4,9 @@
     background-repeat: no-repeat;
     background-size: 100%;
 }
-
-#destaques{
-    height: 600px;
-}
-
 #destaques h1{
     color: #fff;
     text-align: center;
-    margin-top: 100px;
-    margin-bottom: 100px;
 }
 
 .destaque_01{
@@ -147,12 +140,56 @@
     background-position: center;
     padding-top: 150px;
 }
+
+/*materias*/
+#materias{
+    margin-top: 30px;
+}
+
+.link{
+    color: black;
+    float: right;
+}
+.img_bg{
+    background-color: #cecece;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    height: 120px;
+    width: 120px;
+}
+
+#materias h1{
+    color: #000;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+#materias h2{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.fundo{
+    background-color: #f37835;
+    margin-right: 10px;
+    height: 337px;
+}
+.img_mat{
+    margin-left: 20%;
+    margin-top: 20%;
+}
+.space{
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
 /*button*/
+
 .btn-warning{
     color: #fff;
     background-color: #f45600;
     border-color: #f45600;
     border-radius: 0%;
+    font-weight: 700;
 }
 
 .btn-warning:hover {
@@ -174,6 +211,7 @@ input{
     border: none;
     width: 120px;
     height: 38px;
+    font-weight: 700;
 }
 
 
