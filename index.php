@@ -17,15 +17,12 @@
                     <span class="navbar-toggler-icon"></span>
                 </button>
                         <div class="collapse navbar-collapse" id="navbarNav">
-                            <ul class="navbar-nav menu ">
+                            <ul class="nav nav-pills nav-fill">
                                     <li class="nav-item">
                                         <a class="nav-link" href="#">EVENTOS</a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link" href="#">CURSOS</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a class="nav-link" href="#">IN COMPANY</a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link" href="#">CONTEÚDOS</a>
@@ -103,7 +100,7 @@
                 <div class="col-sm-6 offset-md-6">
                     <div class="news">
                         <p>RECEBA EM PRIMEIRA MÃO</p>
-                        <form action="">
+                        <form method="post" action="cadastro.php">
                             <input type="text" name="nome" id="nome" placeholder="Seu nome">
                             <input type="email" name="email" id="email" placeholder="seuemail@email.com">
                             <input class="bt" type="submit" value="Assinar">
@@ -202,7 +199,46 @@
             </div>
         </div>
     </section>
-    <footer></footer>
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-4">
+                    <a class="navbar-brand" href="#"><img src="img/logo.jpg" alt="Company name"></a>
+                    <p>Lorem ipsum dolor sit amet. Ad dolorem quod et corporis voluptatem qui perspiciatis provident ut molestias ipsam!</p>
+                </div>
+                <div class="col-sm-4 space">
+                    <p>São Paulo <a href="tel:+5511987654321"> (11) 987654321</a> | <a href="mailto:contato@mail.com.br">mail@contato.com.br</a></p>
+                </a></div>
+                <div class="col-sm-2">
+                    <ul class="nav flex-column">
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Eventos</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Cursos</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Conteúdos</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Indicadores</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Institucional</a>
+                        </li>
+                      </ul>
+                </div>
+                <div class="col-sm-2 space">
+                    <div class="row">
+                        <div class="col-sm"><a href="#"><img src="img/ic_youtube.png" alt="link youtube" width="25px"></a></div>
+                        <div class="col-sm"><a href="#"><img src="img/ic_linkedin.png" alt="link youtube" width="25px"></a></div>
+                        <div class="col-sm"><a href="#"><img src="img/ic_facebook.png" alt="link youtube" width="25px"></a></div>
+                        <div class="col-sm"><a href="#"><img src="img/ic_twitter.png" alt="link youtube" width="25px"></a></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
 <!-- Bootstrap JS-->
 <script src="js/bootstrap.min.js"></script>
 </body>
