@@ -10,3 +10,14 @@ As regrinhas são:
 - Não há limitações para a escolha da linguagem, pode escolher sua melhor habilidade e caprichar!
 
 - As entregas podem ser até o nível de conhecimento pretendido, por exemplo, caso não tenha habilidade com backend, vamos avaliar apenas a montagem do frontend 😊
+
+# Descritivo
+
+Desenvolvido usando:
+- HTML;
+- CSS;
+- Bootstrap;
+- MySQL;
+- PHP.
+
+Feito dump do database para testes, o mesmo está dentro da pasta db, já a conexão com o MySQL assim como a Query estão no arquivo cadastro.php.
