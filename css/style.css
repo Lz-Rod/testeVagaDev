@@ -233,7 +233,65 @@ a:hover {
     color: #f45600;
 }
 
+@media (max-width: 600px){
+    #header_bg{
+        background-image: url("../img/header_bg.jpg");
+        background-repeat: no-repeat;
+        background-size: 250%;
+    }
+    .img_art{
+        background-color: #cecece;
+        width: 50%;
+        height: 150px;
+    }
+    input{
+        height: 30px;
+        width: 100%;
+        margin-top: 5px;
+    }
+    
+    .bt{
+        color: #fff;
+        background-color: #f45600;
+        border-color: #f45600;
+        border-radius: 0%;
+        border: none;
+        width: 100%;
+        height: 30px;
+        font-weight: 700;
+    }
+    
+    .navbar-brand{
+        width: 100px;
+    }
 
+    #agenda p {
+        text-align: center;
+    }
+
+    .col-sm-4{
+        margin-left: 10px;
+    }
+
+    #mfot {
+        display: none;
+    }
+
+    #redes {
+        display: none;
+    }
+
+    footer{
+        background-color: #000;
+        padding-top: 20px;
+        padding-bottom: 0px;
+    }
+
+    .space{
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+}
 
 
 

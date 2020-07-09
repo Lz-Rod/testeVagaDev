@@ -207,9 +207,9 @@
                     <p>Lorem ipsum dolor sit amet. Ad dolorem quod et corporis voluptatem qui perspiciatis provident ut molestias ipsam!</p>
                 </div>
                 <div class="col-sm-4 space">
-                    <p>São Paulo <a href="tel:+5511987654321"> (11) 987654321</a> | <a href="mailto:contato@mail.com.br">mail@contato.com.br</a></p>
+                    <p>São Paulo <a href="tel:+5511987654321"> (11) 987654321</a>    <a href="mailto:contato@mail.com.br">mail@contato.com.br</a></p>
                 </a></div>
-                <div class="col-sm-2">
+                <div class="col-sm-2" id="mfot">
                     <ul class="nav flex-column">
                         <li class="nav-item">
                             <a class="nav-link" href="#">Eventos</a>
@@ -228,7 +228,7 @@
                         </li>
                       </ul>
                 </div>
-                <div class="col-sm-2 space">
+                <div class="col-sm-2 space" id="redes">
                     <div class="row">
                         <div class="col-sm"><a href="#"><img src="img/ic_youtube.png" alt="link youtube" width="25px"></a></div>
                         <div class="col-sm"><a href="#"><img src="img/ic_linkedin.png" alt="link youtube" width="25px"></a></div>
