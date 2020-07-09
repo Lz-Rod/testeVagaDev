@@ -21,3 +21,17 @@ Desenvolvido usando:
 - PHP.
 
 Feito dump do database para testes, o mesmo está dentro da pasta db, já a conexão com o MySQL assim como a Query estão no arquivo cadastro.php.
+
+# Telas
+
+## 1080p
+![print sistema](https://github.com/LzRodriguez/testeVagaDev/blob/master/prints/1080p-1.PNG)
+![print sistema](https://github.com/LzRodriguez/testeVagaDev/blob/master/prints/1080p-2.PNG)
+![print sistema](https://github.com/LzRodriguez/testeVagaDev/blob/master/prints/1080p-3.PNG)
+
+## Responsivo
+![print sistema](https://github.com/LzRodriguez/testeVagaDev/blob/master/prints/responsivo-1.PNG)
+
+![print sistema](https://github.com/LzRodriguez/testeVagaDev/blob/master/prints/responsivo-2.PNG)
+
+![print sistema](https://github.com/LzRodriguez/testeVagaDev/blob/master/prints/responsivo-3.PNG)
